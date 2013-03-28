@@ -1,0 +1,116 @@
+/*
+INT322
+STEVEN SZU HAN CHEN
+10/19/12
+
+Student Declaration
+
+I/we declare that the attached assignment is my/our own work in accordance with Seneca Academic Policy. No part of this assignment has been copied manually or electronically from any other source (including web sites) or distributed to other students.
+
+Name: STEVEN SZU HAN CHEN
+
+Student: ID 064344112
+*/
+body {
+	background-image: url('images/wallpaper1.jpg');
+	text-align: center;
+}
+h1 {
+	font-size: 46px;
+}
+.container {
+	width: 95%;
+	margin: 20px auto;	
+}
+a:link { 
+	color: #AA2020; 
+	text-decoration: none;
+}
+a:visited { 
+	color: #AA2020; 
+	text-decoration: none;
+}
+a:hover { 
+	color: #3366CC; 
+	text-decoration: underline;
+}
+a:active { 
+	color: #AA2020; 
+	text-decoration: none;
+}
+
+td.right {
+	text-align: right;
+}
+td.left {
+	text-align: left;
+}
+p.note {
+	padding: 10px;
+}
+.box1 {
+	padding: 5px;
+	margin: 0 auto;
+	width: 30%;
+}
+table.box2 {
+	padding: 5px;
+	
+}
+td.error {
+	color: #D12525;
+}
+
+table.dbs {
+	margin: 0 auto;
+        font-family: verdana,arial,sans-serif;
+        font-size:11px;
+        color:#333333;
+        border-width: 1px;
+        border-color: #666666;
+        border-collapse: collapse;
+	table-layout: fixed;
+}
+table.dbs th {
+        border-width: 1px;
+        padding: 1px;
+        border-style: solid;
+        border-color: #666666;
+        background-color: #dedede;
+	width: 150px;
+	text-align: center;
+}
+table.dbs td {
+        border-width: 1px;
+        padding: 3px;
+        border-style: solid;
+        border-color: #666666;
+        background-color: #ffffff;
+	word-wrap: break-word;
+	width: 150px;
+	text-align: center;
+}
+
+table th.width1 {
+	width: 250px;
+}
+
+table th.width2 {
+	width: 175px;
+}
+#login {
+	width: 200px;
+	text-align: center;
+	padding: 10px;
+	border: solid 1px #ddd;
+	margin: 0 auto;
+}
+.menuform {
+	margin: 15px;
+}
+.searchbox {
+	margin: 15px;
+}
+.logout {
+	margin: 15px;
+}
