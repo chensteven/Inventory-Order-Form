@@ -1,4 +1,13 @@
 Inventory-Order-Form
 ====================
 
-An basic inventory order form with add, delete, view and search functions. Written in PHP.
+An basic inventory order form with the following features:
+- add
+- delete
+- view
+- search
+- login
+- register
+- logout
+
+Written in PHP.
